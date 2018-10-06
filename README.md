@@ -21,4 +21,4 @@ If you still need help, please get in touch with us on https://t.me/nimipet and 
 ### Contributors
 
 * Russian: [@Guyver3](https://github.com/Guyver3)
-* Dutch: [@sMvAProjects](https://github.com/MvAProjects)
+* Dutch: [@MvAProjects](https://github.com/MvAProjects)
