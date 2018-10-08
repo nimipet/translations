@@ -22,3 +22,5 @@ If you still need help, please get in touch with us on https://t.me/nimipet and 
 
 * Russian: [@Guyver3](https://github.com/Guyver3)
 * Dutch: [@MvAProjects](https://github.com/MvAProjects)
+* Italian [@CryptoInvestor89](https://github.com/CryptoInvestor89)
+
