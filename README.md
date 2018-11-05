@@ -24,6 +24,7 @@ If you still need help, please get in touch with us on https://t.me/nimipet and 
 * Dutch: [@MvAProjects](https://github.com/MvAProjects)
 * Italian & Japanese [@CryptoInvestor89](https://github.com/CryptoInvestor89)
 * Korean [@cryptoeth101](https://github.com/cryptoeth101)
+* Portuguese [@viniciotricolor](https://github.com/viniciotricolor)
 
 
 
