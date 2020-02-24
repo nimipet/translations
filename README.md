@@ -25,6 +25,7 @@ If you still need help, please get in touch with us on https://t.me/nimipet and 
 * Italian & Japanese [@CryptoInvestor89](https://github.com/CryptoInvestor89)
 * Korean [@cryptoeth101](https://github.com/cryptoeth101)
 * Portuguese [@viniciotricolor](https://github.com/viniciotricolor)
+* Polish [@mbiesiad](https://github.com/mbiesiad)
 
 
 
